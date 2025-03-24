@@ -1,9 +1,5 @@
 package parte1
 
-import serie1.problema.createReader
-import java.io.BufferedReader
-import java.io.FileReader
-
 fun abs(n: Int): Int = if (n < 0) -n else n
 
 fun findMinDifference(elem1: IntArray, elem2: IntArray): Int {
