@@ -2,6 +2,7 @@ package serie1
 
 import kotlin.test.*
 import parte1.findMinDifference
+import kotlin.random.Random
 
 class FindMinDifferenceTest {
     @Test
